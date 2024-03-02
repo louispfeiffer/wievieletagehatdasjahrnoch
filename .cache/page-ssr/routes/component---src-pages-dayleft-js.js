@@ -43,9 +43,9 @@ const DaysLeft = () => {
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
     className: "flex justify-center items-center"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: "text-white h-60 flex justify-center items-center"
+    className: "w-1/2 text-white h-60 flex justify-center items-center"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("img", {
-    className: "w-1/2 h-64 rounded-lg shadow-lg",
+    className: "h-64 rounded-lg shadow-lg",
     src: _images_claender_webp__WEBPACK_IMPORTED_MODULE_1__["default"],
     alt: "Bild-Kalender"
   }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {

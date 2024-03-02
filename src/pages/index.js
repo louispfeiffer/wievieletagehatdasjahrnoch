@@ -34,7 +34,7 @@ const IndexPage = () => {
 
 
       <div class="flex space-x-4 justify-center">
-        <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+        <div class="max-w-sm bg-white border border-gray-200 rounded-lg hover:shadow-xl">
           <a href="#">
             <img class="rounded-t-lg" src={Img} alt="Füllbild" />
           </a>
@@ -52,7 +52,7 @@ const IndexPage = () => {
           </div>
         </div>
 
-        <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+        <div class="max-w-sm bg-white border border-gray-200 rounded-lg hover:shadow-xl">
           <a href="#">
             <img class="rounded-t-lg" src={Img} alt="Füllbild" />
           </a>
@@ -70,6 +70,43 @@ const IndexPage = () => {
           </div>
         </div>
       </div>
+
+      <div class="w-1/2 mt-12 flex justify-center">
+        <div class="">
+          <p>
+          </p>
+        </div>
+      </div>
+
+      <div className="flex justify-center items-center">
+        <div className="text-black h-60 flex justify-center items-center">
+          <div className="w-1/2 mt-5">
+            <p className="text-xl">
+              Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
+              diam nonumy eirmod tempor invidunt ut labore et dolore magna
+              aliquyam erat, sed diam voluptua. At vero eos et accusam et
+              justo duo dolores et ea rebum. Stet clita kasd gubergren, no
+              sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum
+              dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
+              tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+              At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+              no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+          </div>
+        </div>
+      </div>
+
+
+      <a href="#" class="flex flex-col items-center mx-auto w-1/2 bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl">
+        <img class="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-s-lg" src={Img}></img>
+        <div class="flex flex-col justify-between p-4 leading-normal">
+          <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Noteworthy technology acquisitions 2021</h5>
+          <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+        </div>
+      </a>
+
+
+
+
 
 
 

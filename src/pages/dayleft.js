@@ -24,11 +24,12 @@ const DaysLeft = () => {
     }, []);
 
     return (
+
+
         <div className="flex justify-center items-center">
-            <div className="w-1/2 text-white h-60 flex justify-center items-center">
-                <img className="h-64 rounded-lg shadow-lg" src={img1} alt="Bild-Kalender"></img>
-                <div className="bg-black bg-opacity-30">
-                    <p className="position absolute text-3xl font-bold">Es sind noch {daysLeft} Tage bis zum Jahresende.</p>
+            <div className="text-black h-60 flex justify-center items-center">
+                <div className=" bg-opacity-30 z-10">
+                    <p className="text-3xl font-bold">Es sind noch {daysLeft} Tage bis zum Jahresende.</p>
                 </div>
             </div>
         </div>
