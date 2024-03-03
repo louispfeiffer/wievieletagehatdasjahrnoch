@@ -43,15 +43,11 @@ const DaysLeft = () => {
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
     className: "flex justify-center items-center"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: "w-1/2 text-white h-60 flex justify-center items-center"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("img", {
-    className: "h-64 rounded-lg shadow-lg",
-    src: _images_claender_webp__WEBPACK_IMPORTED_MODULE_1__["default"],
-    alt: "Bild-Kalender"
-  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: "bg-black bg-opacity-30"
+    className: "text-white h-60 flex justify-center items-center"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: " bg-opacity-30 z-10"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
-    className: "position absolute text-3xl font-bold"
+    className: "text-3xl font-bold"
   }, "Es sind noch ", daysLeft, " Tage bis zum Jahresende."))));
 };
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (DaysLeft);

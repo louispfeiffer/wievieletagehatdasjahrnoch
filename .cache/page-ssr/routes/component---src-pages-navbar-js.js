@@ -18,7 +18,7 @@ __webpack_require__.r(__webpack_exports__);
 
 const Navbar = () => {
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("nav", {
-    class: "bg-white border-gray-200 dark:bg-gray-900 rounded-lg shadow m-4"
+    class: "bg-white border-gray-200 rounded-lg shadow mx-4 sticky top-4 "
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     class: "max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {

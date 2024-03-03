@@ -27,8 +27,8 @@ const DaysLeft = () => {
 
 
         <div className="flex justify-center items-center">
-            <div className="text-black h-60 flex justify-center items-center">
-                <div className=" bg-opacity-30 z-10">
+            <div className="text-white h-60 flex justify-center items-center">
+                <div className=" bg-opacity-30 z-10 hover:shadow-xl p-4 rounded-lg">
                     <p className="text-3xl font-bold">Es sind noch {daysLeft} Tage bis zum Jahresende.</p>
                 </div>
             </div>
