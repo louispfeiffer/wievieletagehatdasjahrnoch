@@ -45,7 +45,7 @@ const DaysLeft = () => {
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
     className: "text-white h-60 flex justify-center items-center"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: " bg-opacity-30 z-10"
+    className: " bg-opacity-30 z-10 hover:shadow-xl p-4 rounded-lg"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
     className: "text-3xl font-bold"
   }, "Es sind noch ", daysLeft, " Tage bis zum Jahresende."))));
