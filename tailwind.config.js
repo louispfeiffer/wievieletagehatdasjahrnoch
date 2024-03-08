@@ -8,7 +8,7 @@ module.exports = {
     extend: {},
 
     colors: {
-      'green': '#96f321',
+      'green': '#5354DC',
       'greenhover': '#879c63',
       'blue': '#2196f3',
       'white': '#ffffff',
