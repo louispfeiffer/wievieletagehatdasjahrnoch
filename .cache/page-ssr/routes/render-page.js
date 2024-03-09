@@ -1532,6 +1532,7 @@ exports.components = {
   "component---src-pages-blog-js": () => __webpack_require__.e(/*! import() | component---src-pages-blog-js */ "component---src-pages-blog-js").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/blog.js?export=default */ "./src/pages/blog.js?export=default")),
   "component---src-pages-dayleft-js": () => __webpack_require__.e(/*! import() | component---src-pages-dayleft-js */ "component---src-pages-dayleft-js").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/dayleft.js?export=default */ "./src/pages/dayleft.js?export=default")),
   "component---src-pages-footer-js": () => __webpack_require__.e(/*! import() | component---src-pages-footer-js */ "component---src-pages-footer-js").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/footer.js?export=default */ "./src/pages/footer.js?export=default")),
+  "component---src-pages-impressum-js": () => __webpack_require__.e(/*! import() | component---src-pages-impressum-js */ "component---src-pages-impressum-js").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/impressum.js?export=default */ "./src/pages/impressum.js?export=default")),
   "component---src-pages-index-js": () => __webpack_require__.e(/*! import() | component---src-pages-index-js */ "component---src-pages-index-js").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/index.js?export=default */ "./src/pages/index.js?export=default")),
   "component---src-pages-navbar-js": () => __webpack_require__.e(/*! import() | component---src-pages-navbar-js */ "component---src-pages-navbar-js").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/navbar.js?export=default */ "./src/pages/navbar.js?export=default"))
 };
@@ -1539,6 +1540,7 @@ exports.components = {
 exports.head = {
   "component---src-pages-404-js": () => __webpack_require__.e(/*! import() | component---src-pages-404-jshead */ "component---src-pages-404-jshead").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/404.js?export=head */ "./src/pages/404.js?export=head")),
   "component---src-pages-blog-js": () => __webpack_require__.e(/*! import() | component---src-pages-blog-jshead */ "component---src-pages-blog-jshead").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/blog.js?export=head */ "./src/pages/blog.js?export=head")),
+  "component---src-pages-impressum-js": () => __webpack_require__.e(/*! import() | component---src-pages-impressum-jshead */ "component---src-pages-impressum-jshead").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/impressum.js?export=head */ "./src/pages/impressum.js?export=head")),
   "component---src-pages-index-js": () => __webpack_require__.e(/*! import() | component---src-pages-index-jshead */ "component---src-pages-index-jshead").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/index.js?export=head */ "./src/pages/index.js?export=head"))
 };
 
