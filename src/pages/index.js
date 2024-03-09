@@ -43,7 +43,7 @@ const IndexPage = () => {
               </a>
               <div class="p-5">
                 <a href="#">
-                  <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Noteworthy technology acquisitions 2021</h5>
+                  <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Die Bedeutung der verbleibenden Tage im Jahr</h5>
                 </a>
                 <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
                 <a href="#" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-green rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
@@ -61,7 +61,7 @@ const IndexPage = () => {
               </a>
               <div class="p-5">
                 <a href="#">
-                  <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Noteworthy technology acquisitions 2021</h5>
+                  <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Tipps zur Nutzung der verbleibenden Tage des Jahres</h5>
                 </a>
                 <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
                 <a href="#" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-green rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
@@ -81,7 +81,7 @@ const IndexPage = () => {
               </a>
               <div class="p-5">
                 <a href="#">
-                  <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Noteworthy technology acquisitions 2021</h5>
+                  <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Die psychologische Auswirkung des Countdowns</h5>
                 </a>
                 <p class="mb-3 font-normal text-gray-700">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
                 <a href="#" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-green rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300">
@@ -99,7 +99,7 @@ const IndexPage = () => {
               </a>
               <div class="p-5">
                 <a href="#">
-                  <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Noteworthy technology acquisitions 2021</h5>
+                  <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Feiertage, Ereignisse und Meilensteine</h5>
                 </a>
                 <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
                 <a href="#" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-green rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
@@ -117,16 +117,11 @@ const IndexPage = () => {
         <div className="flex justify-center items-center">
           <div className="text-black h-60 flex justify-center items-center">
             <div className="w-1/2 mt-5">
-              <p className="text-xl ">
-                Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
-                diam nonumy eirmod tempor invidunt ut labore et dolore magna
-                aliquyam erat, sed diam voluptua. At vero eos et accusam et
-                justo duo dolores et ea rebum. Stet clita kasd gubergren, no
-                sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum
-                dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
-                tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-                At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
-                no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+              <p className="text-xl text-justify">
+                Ein Jahr besteht aus insgesamt 365 Tagen. Doch wie viele Tage bleiben bis zum Ende des Jahres? Diese Antwort findest du hier auf unserer Website.
+                Es ist von großer Bedeutung, zu wissen, wie viele Tage das Jahr noch zählt. Zeitmanagement ist eine äußerst wichtige Fähigkeit, die einem hilft,
+                sein Leben im Blick zu behalten. Wenn du weißt, wie viele Tage im Jahr noch verbleiben, wird dir dies erheblich erleichtert. Du kannst besser planen
+                und Ziele setzen, basierend auf der verbleibenden Anzahl an Tagen.</p>
             </div>
           </div>
         </div>
@@ -140,29 +135,22 @@ const IndexPage = () => {
         <div className="flex justify-center items-center">
           <div className="text-black h-60 flex justify-center items-center">
             <div className="w-1/2 mt-5">
-              <p className="text-xl">
-                Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
-                diam nonumy eirmod tempor invidunt ut labore et dolore magna
-                aliquyam erat, sed diam voluptua. At vero eos et accusam et
-                justo duo dolores et ea rebum. Stet clita kasd gubergren, no
-                sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum
-                dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
-                tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-                At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
-                no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+              <p className="text-xl text-justify">
+                Zeitmanagement ist eine entscheidende Fähigkeit, die in allen Bereichen des Lebens von großer Bedeutung ist. Es geht darum, die Zeit,
+                die uns zur Verfügung steht, effizient und effektiv zu nutzen, um unsere Ziele zu erreichen und ein ausgewogenes Leben zu führen.
+                Eine der wichtigsten Gründe für gutes Zeitmanagement ist die Steigerung der Effizienz. Durch eine kluge Zeiteinteilung können wir unsere
+                Produktivität erhöhen. Indem wir unsere Aufgaben priorisieren und Zeit für diejenigen Aktivitäten reservieren, die uns am meisten voranbringen,
+                vermeiden wir unnötige Verzögerungen und maximieren unseren Output.</p>
             </div>
           </div>
         </div>
 
         <div className="flex justify-center grid-rows-2 w-1/2 mt-5 m-auto gap-4">
           <div className="">
-            <p className="text-xl ">
-              Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
-              diam nonumy eirmod tempor invidunt ut labore et dolore magna
-              aliquyam erat, sed diam voluptua. At vero eos et accusam et
-              justo duo dolores et ea rebum. Stet clita kasd gubergren, no
-              sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum
-              dolor sit amet, consetetur
+            <p className="text-xl text-justify">
+              Ein weiterer Vorteil eines effektiven Zeitmanagements ist die Reduzierung von Stress. Indem wir unsere Zeit gut planen und organisieren,
+              vermeiden wir das Gefühl, überfordert oder überwältigt zu sein. Dies ermöglicht es uns, gelassener und stressfreier durch den Tag zu
+              gehen und unsere mentale Gesundheit zu schützen.
             </p>
           </div>
           <div className="">
@@ -171,18 +159,20 @@ const IndexPage = () => {
         </div>
 
         <div className="flex justify-center items-center">
-          <div className="text-black h-60 flex justify-center items-center">
+          <div className="text-black h-auto flex justify-center items-center">
             <div className="w-1/2 mt-5">
-              <p className="text-xl">
-                Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
-                diam nonumy eirmod tempor invidunt ut labore et dolore magna
-                aliquyam erat, sed diam voluptua. At vero eos et accusam et
-                justo duo dolores et ea rebum. Stet clita kasd gubergren, no
-                sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum
-                dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
-                tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-                At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
-                no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+              <p className="text-xl text-justify">
+                Zeitmanagement spielt auch eine wichtige Rolle bei der Erreichung unserer Ziele. Es hilft uns, unsere Ziele klar zu definieren und die notwendigen
+                Schritte zu unternehmen, um sie zu erreichen. Durch eine effektive Nutzung unserer Zeit und die Fokussierung auf die Aufgaben, die uns unserem Ziel
+                näherbringen, steigern wir unsere Erfolgschancen und verwirklichen unsere Träume. Darüber hinaus trägt gutes Zeitmanagement zu einer besseren
+                Work-Life-Balance bei. Durch eine gute Zeitplanung können wir Arbeit und persönliches Leben besser in Einklang bringen. Indem wir unsere Zeit
+                entsprechend einteilen und Prioritäten setzen, können wir genug Zeit für Familie, Freunde, Hobbys und Erholung reservieren, was zu einem
+                ausgeglicheneren und erfüllteren Leben führt. Nicht zuletzt hilft uns Zeitmanagement, Chancen besser zu nutzen. Zeit ist eine begrenzte Ressource,
+                und es ist wichtig, sie optimal zu nutzen. Indem wir unsere Zeit effektiv managen, können wir uns die Gelegenheiten, die sich uns bieten,
+                besser zunutze machen. Wir verpassen weniger Chancen und sind besser darauf vorbereitet, wenn sich neue Möglichkeiten ergeben. Insgesamt ist
+                Zeitmanagement eine grundlegende Fähigkeit, die uns dabei hilft, unser Leben besser zu organisieren, unsere Ziele zu erreichen und ein erfülltes
+                Leben zu führen. Es ermöglicht uns, unsere Zeit so einzusetzen, dass wir das Beste aus jedem Tag herausholen können.
+              </p>
             </div>
           </div>
         </div>
