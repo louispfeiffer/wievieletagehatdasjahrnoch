@@ -15,7 +15,7 @@ const IndexPage = () => {
 
           <section class="bg-white sm:hidden">
             <div class="py-4 px-4 mx-auto max-w-screen-xl text-center lg:py-4">
-              <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl">Wie viele Tage hat das Jahr 2024 boch?</h1>
+              <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl">Wie viele Tage hat das Jahr 2024 noch?</h1>
               <p class="mb-8 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 lg:px-48">Was denkst du, wie viele Tage es noch zu deinem Geburtstag sind? Finde es hier heraus.</p>
             </div>
           </section>
@@ -38,11 +38,11 @@ const IndexPage = () => {
 
           <div class="flex space-x-4 justify-center">
             <div class="max-w-sm bg-white rounded-lg hover:shadow-xl">
-              <a href="#">
+              <a href="/wie-viele-tage-hat-das-jahr-noch">
                 <img class="rounded-t-lg" src={Img} alt="Füllbild" />
               </a>
               <div class="p-5">
-                <a href="#">
+                <a href="/wie-viele-tage-hat-das-jahr-noch">
                   <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Die Bedeutung der verbleibenden Tage im Jahr</h5>
                 </a>
                 <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
