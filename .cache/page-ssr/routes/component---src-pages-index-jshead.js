@@ -128,7 +128,7 @@ const IndexPage = () => {
     class: "py-4 px-4 mx-auto max-w-screen-xl text-center lg:py-4"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("h1", {
     class: "mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl"
-  }, "Wie viele Tage hat das Jahr 2024 boch?"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", {
+  }, "Wie viele Tage hat das Jahr 2024 noch?"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", {
     class: "mb-8 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 lg:px-48"
   }, "Was denkst du, wie viele Tage es noch zu deinem Geburtstag sind? Finde es hier heraus."))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_dayleft__WEBPACK_IMPORTED_MODULE_3__["default"], {
     className: ""
@@ -157,7 +157,7 @@ const IndexPage = () => {
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     class: "max-w-sm bg-white rounded-lg hover:shadow-xl"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
-    href: "#"
+    href: "/wie-viele-tage-hat-das-jahr-noch"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("img", {
     class: "rounded-t-lg",
     src: _images_clockonwrist_webp__WEBPACK_IMPORTED_MODULE_4__["default"],
@@ -165,10 +165,10 @@ const IndexPage = () => {
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     class: "p-5"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
-    href: "#"
+    href: "/wie-viele-tage-hat-das-jahr-noch"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("h5", {
     class: "mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"
-  }, "Noteworthy technology acquisitions 2021")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", {
+  }, "Die Bedeutung der verbleibenden Tage im Jahr")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", {
     class: "mb-3 font-normal text-gray-700 dark:text-gray-400"
   }, "Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
     href: "#",
@@ -199,7 +199,7 @@ const IndexPage = () => {
     href: "#"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("h5", {
     class: "mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"
-  }, "Noteworthy technology acquisitions 2021")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", {
+  }, "Tipps zur Nutzung der verbleibenden Tage des Jahres")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", {
     class: "mb-3 font-normal text-gray-700 dark:text-gray-400"
   }, "Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
     href: "#",
@@ -232,7 +232,7 @@ const IndexPage = () => {
     href: "#"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("h5", {
     class: "mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"
-  }, "Noteworthy technology acquisitions 2021")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", {
+  }, "Die psychologische Auswirkung des Countdowns")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", {
     class: "mb-3 font-normal text-gray-700"
   }, "Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
     href: "#",
@@ -263,7 +263,7 @@ const IndexPage = () => {
     href: "#"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("h5", {
     class: "mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"
-  }, "Noteworthy technology acquisitions 2021")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", {
+  }, "Feiertage, Ereignisse und Meilensteine")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", {
     class: "mb-3 font-normal text-gray-700 dark:text-gray-400"
   }, "Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
     href: "#",
@@ -287,8 +287,8 @@ const IndexPage = () => {
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     className: "w-1/2 mt-5"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", {
-    className: "text-xl "
-  }, "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.")))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
+    className: "text-xl text-justify"
+  }, "Ein Jahr besteht aus insgesamt 365 Tagen. Doch wie viele Tage bleiben bis zum Ende des Jahres? Diese Antwort findest du hier auf unserer Website. Es ist von gro\xDFer Bedeutung, zu wissen, wie viele Tage das Jahr noch z\xE4hlt. Zeitmanagement ist eine \xE4u\xDFerst wichtige F\xE4higkeit, die einem hilft, sein Leben im Blick zu behalten. Wenn du wei\xDFt, wie viele Tage im Jahr noch verbleiben, wird dir dies erheblich erleichtert. Du kannst besser planen und Ziele setzen, basierend auf der verbleibenden Anzahl an Tagen.")))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     className: "w-1/2 mt-5 flex m-auto"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("h2", {
     className: "text-6xl text-bolder"
@@ -299,14 +299,14 @@ const IndexPage = () => {
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     className: "w-1/2 mt-5"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", {
-    className: "text-xl"
-  }, "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.")))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
+    className: "text-xl text-justify"
+  }, "Zeitmanagement ist eine entscheidende F\xE4higkeit, die in allen Bereichen des Lebens von gro\xDFer Bedeutung ist. Es geht darum, die Zeit, die uns zur Verf\xFCgung steht, effizient und effektiv zu nutzen, um unsere Ziele zu erreichen und ein ausgewogenes Leben zu f\xFChren. Eine der wichtigsten Gr\xFCnde f\xFCr gutes Zeitmanagement ist die Steigerung der Effizienz. Durch eine kluge Zeiteinteilung k\xF6nnen wir unsere Produktivit\xE4t erh\xF6hen. Indem wir unsere Aufgaben priorisieren und Zeit f\xFCr diejenigen Aktivit\xE4ten reservieren, die uns am meisten voranbringen, vermeiden wir unn\xF6tige Verz\xF6gerungen und maximieren unseren Output.")))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     className: "flex justify-center grid-rows-2 w-1/2 mt-5 m-auto gap-4"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     className: ""
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", {
-    className: "text-xl "
-  }, "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
+    className: "text-xl text-justify"
+  }, "Ein weiterer Vorteil eines effektiven Zeitmanagements ist die Reduzierung von Stress. Indem wir unsere Zeit gut planen und organisieren, vermeiden wir das Gef\xFChl, \xFCberfordert oder \xFCberw\xE4ltigt zu sein. Dies erm\xF6glicht es uns, gelassener und stressfreier durch den Tag zu gehen und unsere mentale Gesundheit zu sch\xFCtzen.")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     className: ""
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("img", {
     class: "rounded-lg",
@@ -315,12 +315,12 @@ const IndexPage = () => {
   }))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     className: "flex justify-center items-center"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
-    className: "text-black h-60 flex justify-center items-center"
+    className: "text-black h-auto flex justify-center items-center"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     className: "w-1/2 mt-5"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", {
-    className: "text-xl"
-  }, "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.")))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_footer__WEBPACK_IMPORTED_MODULE_2__["default"], null)));
+    className: "text-xl text-justify"
+  }, "Zeitmanagement spielt auch eine wichtige Rolle bei der Erreichung unserer Ziele. Es hilft uns, unsere Ziele klar zu definieren und die notwendigen Schritte zu unternehmen, um sie zu erreichen. Durch eine effektive Nutzung unserer Zeit und die Fokussierung auf die Aufgaben, die uns unserem Ziel n\xE4herbringen, steigern wir unsere Erfolgschancen und verwirklichen unsere Tr\xE4ume. Dar\xFCber hinaus tr\xE4gt gutes Zeitmanagement zu einer besseren Work-Life-Balance bei. Durch eine gute Zeitplanung k\xF6nnen wir Arbeit und pers\xF6nliches Leben besser in Einklang bringen. Indem wir unsere Zeit entsprechend einteilen und Priorit\xE4ten setzen, k\xF6nnen wir genug Zeit f\xFCr Familie, Freunde, Hobbys und Erholung reservieren, was zu einem ausgeglicheneren und erf\xFCllteren Leben f\xFChrt. Nicht zuletzt hilft uns Zeitmanagement, Chancen besser zu nutzen. Zeit ist eine begrenzte Ressource, und es ist wichtig, sie optimal zu nutzen. Indem wir unsere Zeit effektiv managen, k\xF6nnen wir uns die Gelegenheiten, die sich uns bieten, besser zunutze machen. Wir verpassen weniger Chancen und sind besser darauf vorbereitet, wenn sich neue M\xF6glichkeiten ergeben. Insgesamt ist Zeitmanagement eine grundlegende F\xE4higkeit, die uns dabei hilft, unser Leben besser zu organisieren, unsere Ziele zu erreichen und ein erf\xFClltes Leben zu f\xFChren. Es erm\xF6glicht uns, unsere Zeit so einzusetzen, dass wir das Beste aus jedem Tag herausholen k\xF6nnen.")))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_footer__WEBPACK_IMPORTED_MODULE_2__["default"], null)));
 };
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (IndexPage);
 const Head = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("title", null, "Home Page");
