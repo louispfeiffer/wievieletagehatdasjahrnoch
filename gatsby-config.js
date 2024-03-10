@@ -6,7 +6,7 @@ module.exports = {
     title: `wievieletagehatdasjahrnoch`,
     siteUrl: `https://www.yourdomain.tld`
   },
-  plugins: ["gatsby-plugin-postcss", "gatsby-plugin-image", "gatsby-plugin-sharp", "gatsby-transformer-sharp", {
+  plugins: ["gatsby-plugin-postcss", {
     resolve: 'gatsby-source-filesystem',
     options: {
       "name": "images",
