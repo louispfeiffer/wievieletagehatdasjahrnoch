@@ -190,7 +190,7 @@ const IndexPage = () => {
   }))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     class: "m-4 md:w-96 bg-white rounded-lg hover:shadow-xl"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
-    href: "#"
+    href: "/Wie-man-die-verbleibenden-Tage-des-Jahres-ideal-nutzen-kann"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("img", {
     class: "rounded-t-lg",
     src: _images_clockonwrist_webp__WEBPACK_IMPORTED_MODULE_4__["default"],
@@ -198,13 +198,13 @@ const IndexPage = () => {
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     class: "p-5"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
-    href: "#"
+    href: "/Wie-man-die-verbleibenden-Tage-des-Jahres-ideal-nutzen-kann"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("h5", {
     class: "mb-2 text-2xl font-bold tracking-tight"
-  }, "Tipps zur Nutzung der verbleibenden Tage des Jahres")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", {
+  }, "Wie man die verbleibenden Tage des Jahres ideal nutzen kann")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", {
     class: "mb-3 font-normal"
   }, "Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
-    href: "#",
+    href: "/Wie-man-die-verbleibenden-Tage-des-Jahres-ideal-nutzen-kann",
     class: "inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-green rounded-lg focus:ring-4 focus:outline-none"
   }, "weiter lesen", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("svg", {
     class: "rtl:rotate-180 w-3.5 h-3.5 ms-2",

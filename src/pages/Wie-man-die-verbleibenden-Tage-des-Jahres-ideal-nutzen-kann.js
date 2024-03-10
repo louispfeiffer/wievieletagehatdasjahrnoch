@@ -140,45 +140,6 @@ const BlogPage = () => {
                                 </p>
                             </div>
 
-                            <div class="mb-4">
-                                <h2 class="text-lg font-semibold">Das Finale</h2>
-                                <p className="text-justify">
-                                    Der 31. Dezember, Silvester, markiert das Ende des Kalenderjahres und ist ein Moment der Reflexion, des Feierns und des
-                                    Neuanfangs. Es ist eine Zeit, in der wir das alte Jahr verabschieden und das neue Jahr willkommen heißen. Silvester ist
-                                    eine Gelegenheit, auf das vergangene Jahr zurückzublicken und die Höhen und Tiefen zu reflektieren.
-                                    Für viele Menschen ist Silvester eine Nacht der Feierlichkeiten. Wir versammeln uns mit Familie und Freunden, um gemeinsam
-                                    das alte Jahr ausklingen zu lassen und das neue Jahr zu begrüßen. Es werden Feuerwerke gezündet, Champagner getrunken und gute
-                                    Vorsätze für das kommende Jahr gemacht.
-                                    Doch Silvester ist auch eine Zeit der Melancholie und der Nostalgie. Wir denken an die Ereignisse des vergangenen Jahres und an
-                                    die Menschen, die uns besonders nahestanden. Es ist eine Gelegenheit, Abschied zu nehmen von alten Gewohnheiten und vergangenen
-                                    Erfahrungen und uns auf das Neue zu freuen.
-                                    Für manche Menschen ist Silvester auch eine Zeit der Einsamkeit und der Trauer. Sie verbringen die Nacht allein oder fühlen sich
-                                    von ihren Liebsten getrennt. Es ist wichtig, diesen Menschen Mitgefühl und Unterstützung zu zeigen und ihnen zu helfen, diese
-                                    schwierige Zeit zu überwinden.
-                                    Doch egal, wie wir Silvester verbringen, eines steht fest: Es ist eine Nacht des Wandels und des Neuanfangs, eine Nacht,
-                                    um das alte Jahr zu verabschieden und das neue Jahr willkommen zu heißen. Lasst uns das alte Jahr mit Dankbarkeit
-                                    verabschieden und das neue Jahr mit Hoffnung und Optimismus begrüßen. Auf ein frohes neues Jahr!
-                                </p>
-                            </div>
-
-                            <div class="mb-4">
-                                <h2 class="text-lg font-semibold">Die Reise durch das Kalenderjahr,</h2>
-                                <p className="text-justify">
-                                    von den ersten Tagen im Januar bis zum festlichen Finale im Dezember, hat uns gezeigt, wie kostbar und vielfältig die Zeit ist.
-                                    Jeder Tag, jede Woche und jeder Monat bietet neue Chancen, neue Erfahrungen zu sammeln und unser Leben auf sinnvolle Weise zu
-                                    gestalten.
-                                    Wir haben gelernt, die verbleibenden Tage des Jahres bewusst zu nutzen und unsere Ziele und Träume nicht aus den Augen zu
-                                    verlieren. Jeder Tag ist eine Gelegenheit, etwas Neues zu beginnen, etwas zu erreichen und unsere Welt auf positive Weise zu
-                                    beeinflussen.
-                                    Die Zeit vergeht schnell, und es ist wichtig, jeden Moment zu schätzen und das Beste daraus zu machen. Wir sollten uns daran
-                                    erinnern, dass das Leben kurz ist und dass wir jeden Tag nutzen sollten, um unsere Ziele zu verfolgen und unsere Träume zu
-                                    verwirklichen.
-                                    Abschließend sollten wir uns gegenseitig ermutigen, die verbleibenden Tage des Jahres zu nutzen, um das Beste aus uns
-                                    herauszuholen und die Welt um uns herum zu einem besseren Ort zu machen. Lasst uns gemeinsam das alte Jahr verabschieden
-                                    und das neue Jahr mit Freude, Hoffnung und Optimismus begrüßen.
-                                </p>
-                            </div>
-
                         </div>
                     </div>
                 </div>
