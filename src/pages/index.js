@@ -47,7 +47,7 @@ const IndexPage = () => {
                   </a>
                   <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
                   <a href="/wie-viele-tage-hat-das-jahr-noch" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-green rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
-                    Read more
+                    weiter lesen
                     <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                       <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9" />
                     </svg>
@@ -65,7 +65,7 @@ const IndexPage = () => {
                   </a>
                   <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
                   <a href="#" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-green rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
-                    Read more
+                    weiter lesen
                     <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                       <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9" />
                     </svg>
@@ -84,7 +84,7 @@ const IndexPage = () => {
                   </a>
                   <p class="mb-3 font-normal text-gray-700">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
                   <a href="#" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-green rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300">
-                    Read more
+                    weiter lesen
                     <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                       <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9" />
                     </svg>
@@ -102,7 +102,7 @@ const IndexPage = () => {
                   </a>
                   <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
                   <a href="#" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-green rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
-                    Read more
+                    weiter lesen
                     <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                       <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9" />
                     </svg>
@@ -118,7 +118,7 @@ const IndexPage = () => {
 
         <div className="flex justify-center items-center">
           <div className="text-black h-60 flex justify-center items-center">
-            <div className="w-1/2 mt-5">
+            <div className="mx-4 md:w-1/2 mt-5">
               <p className="text-xl text-justify">
                 Ein Jahr besteht aus insgesamt 365 Tagen. Doch wie viele Tage bleiben bis zum Ende des Jahres? Diese Antwort findest du hier auf unserer Website.
                 Es ist von großer Bedeutung, zu wissen, wie viele Tage das Jahr noch zählt. Zeitmanagement ist eine äußerst wichtige Fähigkeit, die einem hilft,
@@ -129,14 +129,14 @@ const IndexPage = () => {
         </div>
 
 
-        <div className="w-1/2 mt-5 flex m-auto">
+        <div className="mx-4 md:w-1/2 mt-5 md:m-auto">
           <h2 className="text-6xl text-bolder">Wieso ist Zeit Management wichtig?</h2>
         </div>
 
 
-        <div className="flex justify-center items-center">
+        <div className="flex justify-center items-center sm:mt-4 md:mt-0">
           <div className="text-black h-60 flex justify-center items-center">
-            <div className="w-1/2 mt-5">
+            <div className="mx-4 md:w-1/2 mt-5">
               <p className="text-xl text-justify">
                 Zeitmanagement ist eine entscheidende Fähigkeit, die in allen Bereichen des Lebens von großer Bedeutung ist. Es geht darum, die Zeit,
                 die uns zur Verfügung steht, effizient und effektiv zu nutzen, um unsere Ziele zu erreichen und ein ausgewogenes Leben zu führen.
@@ -147,22 +147,24 @@ const IndexPage = () => {
           </div>
         </div>
 
-        <div className="flex justify-center grid-rows-2 w-1/2 mt-5 m-auto gap-4">
-          <div className="">
-            <p className="text-xl text-justify">
-              Ein weiterer Vorteil eines effektiven Zeitmanagements ist die Reduzierung von Stress. Indem wir unsere Zeit gut planen und organisieren,
-              vermeiden wir das Gefühl, überfordert oder überwältigt zu sein. Dies ermöglicht es uns, gelassener und stressfreier durch den Tag zu
-              gehen und unsere mentale Gesundheit zu schützen.
-            </p>
+        <section className="sm:hidden md:block">
+          <div className="flex justify-center grid-rows-2 md:w-1/2 mt-5 m-auto gap-8">
+            <div className="">
+              <p className=" text-xl text-justify">
+                Ein weiterer Vorteil eines effektiven Zeitmanagements ist die Reduzierung von Stress. Indem wir unsere Zeit gut planen und organisieren,
+                vermeiden wir das Gefühl, überfordert oder überwältigt zu sein. Dies ermöglicht es uns, gelassener und stressfreier durch den Tag zu
+                gehen und unsere mentale Gesundheit zu schützen.
+              </p>
+            </div>
+            <div className="mx-4 w-auto h-auto">
+              <img class="rounded-lg" src={Img} alt="Füllbild" />
+            </div>
           </div>
-          <div className="">
-            <img class="rounded-lg" src={Img} alt="Füllbild" />
-          </div>
-        </div>
+        </section>
 
-        <div className="flex justify-center items-center">
+        <div className="flex justify-center items-center mt-4">
           <div className="text-black h-auto flex justify-center items-center">
-            <div className="w-1/2 mt-5">
+            <div className="mx-4 md:w-1/2 mt-5">
               <p className="text-xl text-justify">
                 Zeitmanagement spielt auch eine wichtige Rolle bei der Erreichung unserer Ziele. Es hilft uns, unsere Ziele klar zu definieren und die notwendigen
                 Schritte zu unternehmen, um sie zu erreichen. Durch eine effektive Nutzung unserer Zeit und die Fokussierung auf die Aufgaben, die uns unserem Ziel

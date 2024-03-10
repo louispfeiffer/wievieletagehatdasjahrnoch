@@ -153,9 +153,11 @@ const IndexPage = () => {
     href: "#",
     class: "py-3 px-5 sm:ms-4 text-sm font-medium text-gray-900 focus:outline-none bg-white rounded-lg hover:shadow-xl hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-100"
   }, "Mehr")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
-    class: "flex space-x-4 justify-center"
+    className: "flex justify-center"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
-    class: "max-w-sm bg-white rounded-lg hover:shadow-xl"
+    className: "grid sm:grid-cols-1 md:grid-cols-2"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
+    class: "m-4 md:w-96 bg-white rounded-lg hover:shadow-xl"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
     href: "/wie-viele-tage-hat-das-jahr-noch"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("img", {
@@ -186,7 +188,7 @@ const IndexPage = () => {
     "stroke-width": "2",
     d: "M1 5h12m0 0L9 1m4 4L9 9"
   }))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
-    class: "max-w-sm bg-white rounded-lg hover:shadow-xl"
+    class: "m-4 md:w-96 bg-white rounded-lg hover:shadow-xl"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
     href: "#"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("img", {
@@ -216,10 +218,8 @@ const IndexPage = () => {
     "stroke-linejoin": "round",
     "stroke-width": "2",
     d: "M1 5h12m0 0L9 1m4 4L9 9"
-  })))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
-    class: "flex space-x-4 justify-center mt-4"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
-    class: "max-w-sm bg-white rounded-lg hover:shadow-xl"
+  }))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
+    class: "m-4 md:w-96 bg-white rounded-lg hover:shadow-xl"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
     href: "#"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("img", {
@@ -250,7 +250,7 @@ const IndexPage = () => {
     "stroke-width": "2",
     d: "M1 5h12m0 0L9 1m4 4L9 9"
   }))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
-    class: "max-w-sm bg-white rounded-lg hover:shadow-xl"
+    class: "m-4 md:w-96 bg-white rounded-lg hover:shadow-xl"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
     href: "#"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("img", {
@@ -280,16 +280,16 @@ const IndexPage = () => {
     "stroke-linejoin": "round",
     "stroke-width": "2",
     d: "M1 5h12m0 0L9 1m4 4L9 9"
-  }))))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
+  })))))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     className: "flex justify-center items-center"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     className: "text-black h-60 flex justify-center items-center"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
-    className: "w-1/2 mt-5"
+    className: "mx-4 md:w-1/2 mt-5"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", {
     className: "text-xl text-justify"
   }, "Ein Jahr besteht aus insgesamt 365 Tagen. Doch wie viele Tage bleiben bis zum Ende des Jahres? Diese Antwort findest du hier auf unserer Website. Es ist von gro\xDFer Bedeutung, zu wissen, wie viele Tage das Jahr noch z\xE4hlt. Zeitmanagement ist eine \xE4u\xDFerst wichtige F\xE4higkeit, die einem hilft, sein Leben im Blick zu behalten. Wenn du wei\xDFt, wie viele Tage im Jahr noch verbleiben, wird dir dies erheblich erleichtert. Du kannst besser planen und Ziele setzen, basierend auf der verbleibenden Anzahl an Tagen.")))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
-    className: "w-1/2 mt-5 flex m-auto"
+    className: "mx-4 md:w-1/2 mt-5 md:m-auto"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("h2", {
     className: "text-6xl text-bolder"
   }, "Wieso ist Zeit Management wichtig?")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
@@ -297,17 +297,17 @@ const IndexPage = () => {
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     className: "text-black h-60 flex justify-center items-center"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
-    className: "w-1/2 mt-5"
+    className: "mx-4 md:w-1/2 mt-5"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", {
     className: "text-xl text-justify"
   }, "Zeitmanagement ist eine entscheidende F\xE4higkeit, die in allen Bereichen des Lebens von gro\xDFer Bedeutung ist. Es geht darum, die Zeit, die uns zur Verf\xFCgung steht, effizient und effektiv zu nutzen, um unsere Ziele zu erreichen und ein ausgewogenes Leben zu f\xFChren. Eine der wichtigsten Gr\xFCnde f\xFCr gutes Zeitmanagement ist die Steigerung der Effizienz. Durch eine kluge Zeiteinteilung k\xF6nnen wir unsere Produktivit\xE4t erh\xF6hen. Indem wir unsere Aufgaben priorisieren und Zeit f\xFCr diejenigen Aktivit\xE4ten reservieren, die uns am meisten voranbringen, vermeiden wir unn\xF6tige Verz\xF6gerungen und maximieren unseren Output.")))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
-    className: "flex justify-center grid-rows-2 w-1/2 mt-5 m-auto gap-4"
+    className: "flex justify-center grid-rows-1 md:grid-rows-2 w-1/2 mt-5 m-auto gap-4"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     className: ""
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", {
     className: "text-xl text-justify"
   }, "Ein weiterer Vorteil eines effektiven Zeitmanagements ist die Reduzierung von Stress. Indem wir unsere Zeit gut planen und organisieren, vermeiden wir das Gef\xFChl, \xFCberfordert oder \xFCberw\xE4ltigt zu sein. Dies erm\xF6glicht es uns, gelassener und stressfreier durch den Tag zu gehen und unsere mentale Gesundheit zu sch\xFCtzen.")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
-    className: ""
+    className: "mx-4 w-auto h-auto"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("img", {
     class: "rounded-lg",
     src: _images_clockonwrist_webp__WEBPACK_IMPORTED_MODULE_4__["default"],
@@ -317,7 +317,7 @@ const IndexPage = () => {
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     className: "text-black h-auto flex justify-center items-center"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
-    className: "w-1/2 mt-5"
+    className: "mx-4 md:w-1/2 mt-5"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", {
     className: "text-xl text-justify"
   }, "Zeitmanagement spielt auch eine wichtige Rolle bei der Erreichung unserer Ziele. Es hilft uns, unsere Ziele klar zu definieren und die notwendigen Schritte zu unternehmen, um sie zu erreichen. Durch eine effektive Nutzung unserer Zeit und die Fokussierung auf die Aufgaben, die uns unserem Ziel n\xE4herbringen, steigern wir unsere Erfolgschancen und verwirklichen unsere Tr\xE4ume. Dar\xFCber hinaus tr\xE4gt gutes Zeitmanagement zu einer besseren Work-Life-Balance bei. Durch eine gute Zeitplanung k\xF6nnen wir Arbeit und pers\xF6nliches Leben besser in Einklang bringen. Indem wir unsere Zeit entsprechend einteilen und Priorit\xE4ten setzen, k\xF6nnen wir genug Zeit f\xFCr Familie, Freunde, Hobbys und Erholung reservieren, was zu einem ausgeglicheneren und erf\xFCllteren Leben f\xFChrt. Nicht zuletzt hilft uns Zeitmanagement, Chancen besser zu nutzen. Zeit ist eine begrenzte Ressource, und es ist wichtig, sie optimal zu nutzen. Indem wir unsere Zeit effektiv managen, k\xF6nnen wir uns die Gelegenheiten, die sich uns bieten, besser zunutze machen. Wir verpassen weniger Chancen und sind besser darauf vorbereitet, wenn sich neue M\xF6glichkeiten ergeben. Insgesamt ist Zeitmanagement eine grundlegende F\xE4higkeit, die uns dabei hilft, unser Leben besser zu organisieren, unsere Ziele zu erreichen und ein erf\xFClltes Leben zu f\xFChren. Es erm\xF6glicht uns, unsere Zeit so einzusetzen, dass wir das Beste aus jedem Tag herausholen k\xF6nnen.")))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_footer__WEBPACK_IMPORTED_MODULE_2__["default"], null)));
