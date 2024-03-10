@@ -56,15 +56,15 @@ const IndexPage = () => {
               </div>
 
               <div class="m-4 md:w-96 bg-white rounded-lg hover:shadow-xl">
-                <a href="#">
+                <a href="/Wie-man-die-verbleibenden-Tage-des-Jahres-ideal-nutzen-kann">
                   <img class="rounded-t-lg" src={Img} alt="Füllbild" />
                 </a>
                 <div class="p-5">
-                  <a href="#">
-                    <h5 class="mb-2 text-2xl font-bold tracking-tight">Tipps zur Nutzung der verbleibenden Tage des Jahres</h5>
+                  <a href="/Wie-man-die-verbleibenden-Tage-des-Jahres-ideal-nutzen-kann">
+                    <h5 class="mb-2 text-2xl font-bold tracking-tight">Wie man die verbleibenden Tage des Jahres ideal nutzen kann</h5>
                   </a>
                   <p class="mb-3 font-normal">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
-                  <a href="#" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-green rounded-lg focus:ring-4 focus:outline-none">
+                  <a href="/Wie-man-die-verbleibenden-Tage-des-Jahres-ideal-nutzen-kann" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-green rounded-lg focus:ring-4 focus:outline-none">
                     weiter lesen
                     <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                       <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9" />

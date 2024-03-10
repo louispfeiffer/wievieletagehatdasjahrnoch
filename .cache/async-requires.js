@@ -7,6 +7,7 @@ exports.components = {
   "component---src-pages-impressum-js": () => import("./../../../src/pages/impressum.js?export=default" /* webpackChunkName: "component---src-pages-impressum-js" */),
   "component---src-pages-index-js": () => import("./../../../src/pages/index.js?export=default" /* webpackChunkName: "component---src-pages-index-js" */),
   "component---src-pages-navbar-js": () => import("./../../../src/pages/navbar.js?export=default" /* webpackChunkName: "component---src-pages-navbar-js" */),
+  "component---src-pages-wie-man-die-verbleibenden-tage-des-jahres-ideal-nutzen-kann-js": () => import("./../../../src/pages/Wie-man-die-verbleibenden-Tage-des-Jahres-ideal-nutzen-kann.js?export=default" /* webpackChunkName: "component---src-pages-wie-man-die-verbleibenden-tage-des-jahres-ideal-nutzen-kann-js" */),
   "component---src-pages-wie-viele-tage-hat-das-jahr-noch-js": () => import("./../../../src/pages/wie-viele-tage-hat-das-jahr-noch.js?export=default" /* webpackChunkName: "component---src-pages-wie-viele-tage-hat-das-jahr-noch-js" */)
 }
 
@@ -17,6 +18,7 @@ exports.head = {
   "component---src-pages-blog-js": () => import("./../../../src/pages/blog.js?export=head" /* webpackChunkName: "component---src-pages-blog-jshead" */),
   "component---src-pages-impressum-js": () => import("./../../../src/pages/impressum.js?export=head" /* webpackChunkName: "component---src-pages-impressum-jshead" */),
   "component---src-pages-index-js": () => import("./../../../src/pages/index.js?export=head" /* webpackChunkName: "component---src-pages-index-jshead" */),
+  "component---src-pages-wie-man-die-verbleibenden-tage-des-jahres-ideal-nutzen-kann-js": () => import("./../../../src/pages/Wie-man-die-verbleibenden-Tage-des-Jahres-ideal-nutzen-kann.js?export=head" /* webpackChunkName: "component---src-pages-wie-man-die-verbleibenden-tage-des-jahres-ideal-nutzen-kann-jshead" */),
   "component---src-pages-wie-viele-tage-hat-das-jahr-noch-js": () => import("./../../../src/pages/wie-viele-tage-hat-das-jahr-noch.js?export=head" /* webpackChunkName: "component---src-pages-wie-viele-tage-hat-das-jahr-noch-jshead" */)
 }
 

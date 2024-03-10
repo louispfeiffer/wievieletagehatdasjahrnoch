@@ -12,6 +12,7 @@ exports.components = {
   "component---src-pages-impressum-js": preferDefault(require("/Users/louispfeiffer/wievieletagehatdasjahrnoch/src/pages/impressum.js")),
   "component---src-pages-index-js": preferDefault(require("/Users/louispfeiffer/wievieletagehatdasjahrnoch/src/pages/index.js")),
   "component---src-pages-navbar-js": preferDefault(require("/Users/louispfeiffer/wievieletagehatdasjahrnoch/src/pages/navbar.js")),
+  "component---src-pages-wie-man-die-verbleibenden-tage-des-jahres-ideal-nutzen-kann-js": preferDefault(require("/Users/louispfeiffer/wievieletagehatdasjahrnoch/src/pages/Wie-man-die-verbleibenden-Tage-des-Jahres-ideal-nutzen-kann.js")),
   "component---src-pages-wie-viele-tage-hat-das-jahr-noch-js": preferDefault(require("/Users/louispfeiffer/wievieletagehatdasjahrnoch/src/pages/wie-viele-tage-hat-das-jahr-noch.js"))
 }
 
