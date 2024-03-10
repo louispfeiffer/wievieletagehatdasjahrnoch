@@ -116,6 +116,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _images_clockonwrist_webp__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../images/clockonwrist.webp */ "./src/images/clockonwrist.webp");
 /* harmony import */ var _images_calender_webp__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../images/calender.webp */ "./src/images/calender.webp");
 /* harmony import */ var _images_black_men_busniess_webp__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../images/black-men-busniess.webp */ "./src/images/black-men-busniess.webp");
+/* harmony import */ var _images_firework_webp__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../images/firework.webp */ "./src/images/firework.webp");
+
 
 
 
@@ -198,7 +200,7 @@ const IndexPage = () => {
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("img", {
     class: "rounded-t-lg",
     src: _images_calender_webp__WEBPACK_IMPORTED_MODULE_5__["default"],
-    alt: "F\xFCllbild"
+    alt: "blog_cover_2"
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     class: "p-5"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
@@ -229,16 +231,16 @@ const IndexPage = () => {
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("img", {
     class: "rounded-t-lg",
     src: _images_black_men_busniess_webp__WEBPACK_IMPORTED_MODULE_6__["default"],
-    alt: "F\xFCllbild"
+    alt: "blog_cover_3"
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     class: "p-5"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
     href: "/die-psychologische-Kraft-des-Countdowns-und-ihr-Einfluss-auf-unser-Verhalten"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("h5", {
     class: "mb-2 text-2xl font-bold tracking-tight"
-  }, "Die psychologische Kraft des Countdowns und ihr Einfluss auf unser Verhalten")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", {
+  }, "Die psychologische Kraft des Countdowns und ihr Einfluss")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", {
     class: "mb-3 font-normal"
-  }, "Tauchen Sie ein in die faszinierende Welt der Countdowns und erfahren Sie, wie die verbleibende Zeit unsere Motivation steigert."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
+  }, "Die Welt der Countdowns und erfahren Sie, wie die verbleibende Zeit unsere Motivation steigert."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
     href: "/die-psychologische-Kraft-des-Countdowns-und-ihr-Einfluss-auf-unser-Verhalten",
     class: "inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-green rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300"
   }, "weiter lesen", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("svg", {
@@ -256,22 +258,22 @@ const IndexPage = () => {
   }))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     class: "m-4 md:w-96 bg-white rounded-lg hover:shadow-xl"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
-    href: "#"
+    href: "/die-kulturelle-Bedeutung-des-Jahresendes"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("img", {
     class: "rounded-t-lg",
-    src: _images_clockonwrist_webp__WEBPACK_IMPORTED_MODULE_4__["default"],
-    alt: "F\xFCllbild"
+    src: _images_firework_webp__WEBPACK_IMPORTED_MODULE_7__["default"],
+    alt: "blog_cover_4"
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     class: "p-5"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
-    href: "#"
+    href: "/die-kulturelle-Bedeutung-des-Jahresendes"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("h5", {
     class: "mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"
-  }, "Feiertage, Ereignisse und Meilensteine")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", {
+  }, "Die kulturelle Bedeutung des Jahresendes")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", {
     class: "mb-3 font-normal text-gray-700 dark:text-gray-400"
-  }, "Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
-    href: "#",
-    class: "inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-green rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
+  }, "Die kulturelle Bedeutung des Jahresendes. Wie verschiedene Kulturen das Ende des Jahres feiern und reflektieren"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
+    href: "/die-kulturelle-Bedeutung-des-Jahresendes",
+    class: "inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-green rounded-lg focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
   }, "weiter lesen", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("svg", {
     class: "rtl:rotate-180 w-3.5 h-3.5 ms-2",
     "aria-hidden": "true",
@@ -444,6 +446,20 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/static/clockonwrist-9e6e66942c79b6940109d42c3da89590.webp");
+
+/***/ }),
+
+/***/ "./src/images/firework.webp":
+/*!**********************************!*\
+  !*** ./src/images/firework.webp ***!
+  \**********************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/static/firework-a5a639970301821916e55890a74e0f17.webp");
 
 /***/ })
 

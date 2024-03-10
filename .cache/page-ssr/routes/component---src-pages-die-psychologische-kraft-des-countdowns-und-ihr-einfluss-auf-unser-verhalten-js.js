@@ -18,7 +18,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _navbar__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./navbar */ "./src/pages/navbar.js");
 /* harmony import */ var _footer__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./footer */ "./src/pages/footer.js");
-/* harmony import */ var _images_calender_webp__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../images/calender.webp */ "./src/images/calender.webp");
+/* harmony import */ var _images_black_men_busniess_webp__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../images/black-men-busniess.webp */ "./src/images/black-men-busniess.webp");
 
 
 
@@ -34,7 +34,7 @@ const BlogPage = () => {
     className: "w-auto h-auto mb-4"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("img", {
     class: "rounded-lg",
-    src: _images_calender_webp__WEBPACK_IMPORTED_MODULE_3__["default"],
+    src: _images_black_men_busniess_webp__WEBPACK_IMPORTED_MODULE_3__["default"],
     alt: "F\xFCllbild"
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     class: "mb-4"
@@ -218,17 +218,17 @@ const Navbar = () => {
 
 /***/ }),
 
-/***/ "./src/images/calender.webp":
-/*!**********************************!*\
-  !*** ./src/images/calender.webp ***!
-  \**********************************/
+/***/ "./src/images/black-men-busniess.webp":
+/*!********************************************!*\
+  !*** ./src/images/black-men-busniess.webp ***!
+  \********************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/static/calender-def94228db1d269e28377a6d3d6e56f0.webp");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/static/black-men-busniess-2151253d912da911b5bbe66c0740622d.webp");
 
 /***/ })
 
