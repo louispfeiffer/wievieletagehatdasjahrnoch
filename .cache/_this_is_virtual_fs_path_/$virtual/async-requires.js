@@ -3,6 +3,7 @@ exports.components = {
   "component---src-pages-404-js": () => import("./../../../src/pages/404.js?export=default" /* webpackChunkName: "component---src-pages-404-js" */),
   "component---src-pages-blog-js": () => import("./../../../src/pages/blog.js?export=default" /* webpackChunkName: "component---src-pages-blog-js" */),
   "component---src-pages-dayleft-js": () => import("./../../../src/pages/dayleft.js?export=default" /* webpackChunkName: "component---src-pages-dayleft-js" */),
+  "component---src-pages-die-psychologische-kraft-des-countdowns-und-ihr-einfluss-auf-unser-verhalten-js": () => import("./../../../src/pages/die-psychologische-Kraft-des-Countdowns-und-ihr-Einfluss-auf-unser-Verhalten.js?export=default" /* webpackChunkName: "component---src-pages-die-psychologische-kraft-des-countdowns-und-ihr-einfluss-auf-unser-verhalten-js" */),
   "component---src-pages-footer-js": () => import("./../../../src/pages/footer.js?export=default" /* webpackChunkName: "component---src-pages-footer-js" */),
   "component---src-pages-impressum-js": () => import("./../../../src/pages/impressum.js?export=default" /* webpackChunkName: "component---src-pages-impressum-js" */),
   "component---src-pages-index-js": () => import("./../../../src/pages/index.js?export=default" /* webpackChunkName: "component---src-pages-index-js" */),
@@ -16,6 +17,7 @@ exports.components = {
 exports.head = {
   "component---src-pages-404-js": () => import("./../../../src/pages/404.js?export=head" /* webpackChunkName: "component---src-pages-404-jshead" */),
   "component---src-pages-blog-js": () => import("./../../../src/pages/blog.js?export=head" /* webpackChunkName: "component---src-pages-blog-jshead" */),
+  "component---src-pages-die-psychologische-kraft-des-countdowns-und-ihr-einfluss-auf-unser-verhalten-js": () => import("./../../../src/pages/die-psychologische-Kraft-des-Countdowns-und-ihr-Einfluss-auf-unser-Verhalten.js?export=head" /* webpackChunkName: "component---src-pages-die-psychologische-kraft-des-countdowns-und-ihr-einfluss-auf-unser-verhalten-jshead" */),
   "component---src-pages-impressum-js": () => import("./../../../src/pages/impressum.js?export=head" /* webpackChunkName: "component---src-pages-impressum-jshead" */),
   "component---src-pages-index-js": () => import("./../../../src/pages/index.js?export=head" /* webpackChunkName: "component---src-pages-index-jshead" */),
   "component---src-pages-wie-man-die-verbleibenden-tage-des-jahres-ideal-nutzen-kann-js": () => import("./../../../src/pages/Wie-man-die-verbleibenden-Tage-des-Jahres-ideal-nutzen-kann.js?export=head" /* webpackChunkName: "component---src-pages-wie-man-die-verbleibenden-tage-des-jahres-ideal-nutzen-kann-jshead" */),
