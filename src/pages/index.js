@@ -23,13 +23,13 @@ const IndexPage = () => {
           <DaysLeft className=""></DaysLeft>
 
           <div class="flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0 m-4">
-            <a href="#" class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-green hover:shadow-xl focus:ring-4 focus:ring-blue-300">
+            <a href="/404" class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-green hover:shadow-xl focus:ring-4 focus:ring-blue-300">
               Zum Zeitrechner
               <svg class="w-3.5 h-3.5 ms-2 rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                 <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9" />
               </svg>
             </a>
-            <a href="#" class="py-3 px-5 sm:ms-4 text-sm font-medium text-gray-900 focus:outline-none bg-white rounded-lg hover:shadow-xl hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-100">
+            <a href="/blog" class="py-3 px-5 sm:ms-4 text-sm font-medium text-gray-900 focus:outline-none bg-white rounded-lg hover:shadow-xl focus:z-10 focus:ring-4">
               Mehr
             </a>
           </div>
@@ -43,10 +43,10 @@ const IndexPage = () => {
                 </a>
                 <div class="p-5">
                   <a href="/wie-viele-tage-hat-das-jahr-noch">
-                    <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Die Bedeutung der verbleibenden Tage im Jahr</h5>
+                    <h5 class="mb-2 text-2xl font-bold tracking-tight">Wie viele Tage hat das jahr noch?</h5>
                   </a>
-                  <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
-                  <a href="/wie-viele-tage-hat-das-jahr-noch" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-green rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+                  <p class="mb-3 font-normal">Eine Reise durch das Kalenderjahr, von den ersten Tagen im Januar bis zum festlichen Finale im Dezember.</p>
+                  <a href="/wie-viele-tage-hat-das-jahr-noch" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-green rounded-lg focus:ring-4 focus:outline-none">
                     weiter lesen
                     <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                       <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9" />
@@ -61,10 +61,10 @@ const IndexPage = () => {
                 </a>
                 <div class="p-5">
                   <a href="#">
-                    <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Tipps zur Nutzung der verbleibenden Tage des Jahres</h5>
+                    <h5 class="mb-2 text-2xl font-bold tracking-tight">Tipps zur Nutzung der verbleibenden Tage des Jahres</h5>
                   </a>
-                  <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
-                  <a href="#" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-green rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+                  <p class="mb-3 font-normal">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+                  <a href="#" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-green rounded-lg focus:ring-4 focus:outline-none">
                     weiter lesen
                     <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                       <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9" />
@@ -147,17 +147,19 @@ const IndexPage = () => {
           </div>
         </div>
 
-        <section className="sm:hidden md:block">
-          <div className="flex justify-center grid-rows-2 md:w-1/2 mt-5 m-auto gap-8">
-            <div className="">
-              <p className=" text-xl text-justify">
-                Ein weiterer Vorteil eines effektiven Zeitmanagements ist die Reduzierung von Stress. Indem wir unsere Zeit gut planen und organisieren,
-                vermeiden wir das Gefühl, überfordert oder überwältigt zu sein. Dies ermöglicht es uns, gelassener und stressfreier durch den Tag zu
-                gehen und unsere mentale Gesundheit zu schützen.
-              </p>
-            </div>
-            <div className="mx-4 w-auto h-auto">
-              <img class="rounded-lg" src={Img} alt="Füllbild" />
+        <section className="">
+          <div className="flex justify-center">
+            <div className="grid sm:grid-cols-1 md:grid-cols-2 md:w-1/2 mt-4 m-auto gap-4">
+              <div className="">
+                <p className="sm:mx-4 md:mx-0 text-xl text-justify">
+                  Ein weiterer Vorteil eines effektiven Zeitmanagements ist die Reduzierung von Stress. Indem wir unsere Zeit gut planen und organisieren,
+                  vermeiden wir das Gefühl, überfordert oder überwältigt zu sein. Dies ermöglicht es uns, gelassener und stressfreier durch den Tag zu
+                  gehen und unsere mentale Gesundheit zu schützen.
+                </p>
+              </div>
+              <div className="sm:mx-4 md:mx-0 w-auto h-auto">
+                <img class="rounded-lg" src={Img} alt="Füllbild" />
+              </div>
             </div>
           </div>
         </section>

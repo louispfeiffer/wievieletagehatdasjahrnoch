@@ -2,6 +2,8 @@ import * as React from "react"
 import Navbar from "./navbar"
 import Footer from "./footer"
 
+import Img from "../images/clockonwrist.webp"
+
 const BlogPage = () => {
     return (
         <html>
@@ -11,6 +13,9 @@ const BlogPage = () => {
                 <div class="container mx-auto md:w-1/2 px-4 mt-8">
                     <h1 class="text-3xl font-bold text-center my-5">Wie viele Tage hat das jahr noch?</h1>
                     <div class="bg-white p-6 rounded-lg shadow-md">
+                        <div className="w-auto h-auto mb-4">
+                            <img class="rounded-lg" src={Img} alt="Füllbild" />
+                        </div>
                         <div class="mb-4">
                             <div class="mb-4">
                                 <h2 class="text-lg font-semibold">Haben Sie sich jemals gefragt, wie viele Tage das Jahr noch hat?</h2>
@@ -150,17 +155,17 @@ const BlogPage = () => {
                             <div class="mb-4">
                                 <h2 class="text-lg font-semibold">Die Reise durch das Kalenderjahr,</h2>
                                 <p className="text-justify">
-                                    von den ersten Tagen im Januar bis zum festlichen Finale im Dezember, hat uns gezeigt, wie kostbar und vielfältig die Zeit ist. 
-                                    Jeder Tag, jede Woche und jeder Monat bietet neue Chancen, neue Erfahrungen zu sammeln und unser Leben auf sinnvolle Weise zu 
+                                    von den ersten Tagen im Januar bis zum festlichen Finale im Dezember, hat uns gezeigt, wie kostbar und vielfältig die Zeit ist.
+                                    Jeder Tag, jede Woche und jeder Monat bietet neue Chancen, neue Erfahrungen zu sammeln und unser Leben auf sinnvolle Weise zu
                                     gestalten.
-                                    Wir haben gelernt, die verbleibenden Tage des Jahres bewusst zu nutzen und unsere Ziele und Träume nicht aus den Augen zu 
-                                    verlieren. Jeder Tag ist eine Gelegenheit, etwas Neues zu beginnen, etwas zu erreichen und unsere Welt auf positive Weise zu 
+                                    Wir haben gelernt, die verbleibenden Tage des Jahres bewusst zu nutzen und unsere Ziele und Träume nicht aus den Augen zu
+                                    verlieren. Jeder Tag ist eine Gelegenheit, etwas Neues zu beginnen, etwas zu erreichen und unsere Welt auf positive Weise zu
                                     beeinflussen.
-                                    Die Zeit vergeht schnell, und es ist wichtig, jeden Moment zu schätzen und das Beste daraus zu machen. Wir sollten uns daran 
-                                    erinnern, dass das Leben kurz ist und dass wir jeden Tag nutzen sollten, um unsere Ziele zu verfolgen und unsere Träume zu 
+                                    Die Zeit vergeht schnell, und es ist wichtig, jeden Moment zu schätzen und das Beste daraus zu machen. Wir sollten uns daran
+                                    erinnern, dass das Leben kurz ist und dass wir jeden Tag nutzen sollten, um unsere Ziele zu verfolgen und unsere Träume zu
                                     verwirklichen.
-                                    Abschließend sollten wir uns gegenseitig ermutigen, die verbleibenden Tage des Jahres zu nutzen, um das Beste aus uns 
-                                    herauszuholen und die Welt um uns herum zu einem besseren Ort zu machen. Lasst uns gemeinsam das alte Jahr verabschieden 
+                                    Abschließend sollten wir uns gegenseitig ermutigen, die verbleibenden Tage des Jahres zu nutzen, um das Beste aus uns
+                                    herauszuholen und die Welt um uns herum zu einem besseren Ort zu machen. Lasst uns gemeinsam das alte Jahr verabschieden
                                     und das neue Jahr mit Freude, Hoffnung und Optimismus begrüßen.
                                 </p>
                             </div>
