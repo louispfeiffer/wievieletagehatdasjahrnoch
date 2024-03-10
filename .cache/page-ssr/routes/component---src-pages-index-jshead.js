@@ -135,7 +135,7 @@ const IndexPage = () => {
   }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     class: "flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0 m-4"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
-    href: "#",
+    href: "/404",
     class: "inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-green hover:shadow-xl focus:ring-4 focus:ring-blue-300"
   }, "Zum Zeitrechner", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("svg", {
     class: "w-3.5 h-3.5 ms-2 rtl:rotate-180",
@@ -150,8 +150,8 @@ const IndexPage = () => {
     "stroke-width": "2",
     d: "M1 5h12m0 0L9 1m4 4L9 9"
   }))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
-    href: "#",
-    class: "py-3 px-5 sm:ms-4 text-sm font-medium text-gray-900 focus:outline-none bg-white rounded-lg hover:shadow-xl hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-100"
+    href: "/blog",
+    class: "py-3 px-5 sm:ms-4 text-sm font-medium text-gray-900 focus:outline-none bg-white rounded-lg hover:shadow-xl focus:z-10 focus:ring-4"
   }, "Mehr")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     className: "flex justify-center"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
@@ -169,13 +169,13 @@ const IndexPage = () => {
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
     href: "/wie-viele-tage-hat-das-jahr-noch"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("h5", {
-    class: "mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"
-  }, "Die Bedeutung der verbleibenden Tage im Jahr")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", {
-    class: "mb-3 font-normal text-gray-700 dark:text-gray-400"
-  }, "Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
+    class: "mb-2 text-2xl font-bold tracking-tight"
+  }, "Wie viele Tage hat das jahr noch?")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", {
+    class: "mb-3 font-normal"
+  }, "Eine Reise durch das Kalenderjahr, von den ersten Tagen im Januar bis zum festlichen Finale im Dezember."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
     href: "/wie-viele-tage-hat-das-jahr-noch",
-    class: "inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-green rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
-  }, "Read more", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("svg", {
+    class: "inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-green rounded-lg focus:ring-4 focus:outline-none"
+  }, "weiter lesen", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("svg", {
     class: "rtl:rotate-180 w-3.5 h-3.5 ms-2",
     "aria-hidden": "true",
     xmlns: "http://www.w3.org/2000/svg",
@@ -200,13 +200,13 @@ const IndexPage = () => {
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
     href: "#"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("h5", {
-    class: "mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"
+    class: "mb-2 text-2xl font-bold tracking-tight"
   }, "Tipps zur Nutzung der verbleibenden Tage des Jahres")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", {
-    class: "mb-3 font-normal text-gray-700 dark:text-gray-400"
+    class: "mb-3 font-normal"
   }, "Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
     href: "#",
-    class: "inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-green rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
-  }, "Read more", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("svg", {
+    class: "inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-green rounded-lg focus:ring-4 focus:outline-none"
+  }, "weiter lesen", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("svg", {
     class: "rtl:rotate-180 w-3.5 h-3.5 ms-2",
     "aria-hidden": "true",
     xmlns: "http://www.w3.org/2000/svg",
@@ -237,7 +237,7 @@ const IndexPage = () => {
   }, "Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
     href: "#",
     class: "inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-green rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300"
-  }, "Read more", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("svg", {
+  }, "weiter lesen", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("svg", {
     class: "rtl:rotate-180 w-3.5 h-3.5 ms-2",
     "aria-hidden": "true",
     xmlns: "http://www.w3.org/2000/svg",
@@ -268,7 +268,7 @@ const IndexPage = () => {
   }, "Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
     href: "#",
     class: "inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-green rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
-  }, "Read more", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("svg", {
+  }, "weiter lesen", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("svg", {
     class: "rtl:rotate-180 w-3.5 h-3.5 ms-2",
     "aria-hidden": "true",
     xmlns: "http://www.w3.org/2000/svg",
@@ -293,27 +293,31 @@ const IndexPage = () => {
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("h2", {
     className: "text-6xl text-bolder"
   }, "Wieso ist Zeit Management wichtig?")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
-    className: "flex justify-center items-center"
+    className: "flex justify-center items-center sm:mt-4 md:mt-0"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     className: "text-black h-60 flex justify-center items-center"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     className: "mx-4 md:w-1/2 mt-5"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", {
     className: "text-xl text-justify"
-  }, "Zeitmanagement ist eine entscheidende F\xE4higkeit, die in allen Bereichen des Lebens von gro\xDFer Bedeutung ist. Es geht darum, die Zeit, die uns zur Verf\xFCgung steht, effizient und effektiv zu nutzen, um unsere Ziele zu erreichen und ein ausgewogenes Leben zu f\xFChren. Eine der wichtigsten Gr\xFCnde f\xFCr gutes Zeitmanagement ist die Steigerung der Effizienz. Durch eine kluge Zeiteinteilung k\xF6nnen wir unsere Produktivit\xE4t erh\xF6hen. Indem wir unsere Aufgaben priorisieren und Zeit f\xFCr diejenigen Aktivit\xE4ten reservieren, die uns am meisten voranbringen, vermeiden wir unn\xF6tige Verz\xF6gerungen und maximieren unseren Output.")))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
-    className: "flex justify-center grid-rows-1 md:grid-rows-2 w-1/2 mt-5 m-auto gap-4"
+  }, "Zeitmanagement ist eine entscheidende F\xE4higkeit, die in allen Bereichen des Lebens von gro\xDFer Bedeutung ist. Es geht darum, die Zeit, die uns zur Verf\xFCgung steht, effizient und effektiv zu nutzen, um unsere Ziele zu erreichen und ein ausgewogenes Leben zu f\xFChren. Eine der wichtigsten Gr\xFCnde f\xFCr gutes Zeitmanagement ist die Steigerung der Effizienz. Durch eine kluge Zeiteinteilung k\xF6nnen wir unsere Produktivit\xE4t erh\xF6hen. Indem wir unsere Aufgaben priorisieren und Zeit f\xFCr diejenigen Aktivit\xE4ten reservieren, die uns am meisten voranbringen, vermeiden wir unn\xF6tige Verz\xF6gerungen und maximieren unseren Output.")))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("section", {
+    className: ""
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
+    className: "flex justify-center"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
+    className: "grid sm:grid-cols-1 md:grid-cols-2 md:w-1/2 mt-4 m-auto gap-4"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     className: ""
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", {
-    className: "text-xl text-justify"
+    className: "sm:mx-4 md:mx-0 text-xl text-justify"
   }, "Ein weiterer Vorteil eines effektiven Zeitmanagements ist die Reduzierung von Stress. Indem wir unsere Zeit gut planen und organisieren, vermeiden wir das Gef\xFChl, \xFCberfordert oder \xFCberw\xE4ltigt zu sein. Dies erm\xF6glicht es uns, gelassener und stressfreier durch den Tag zu gehen und unsere mentale Gesundheit zu sch\xFCtzen.")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
-    className: "mx-4 w-auto h-auto"
+    className: "sm:mx-4 md:mx-0 w-auto h-auto"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("img", {
     class: "rounded-lg",
     src: _images_clockonwrist_webp__WEBPACK_IMPORTED_MODULE_4__["default"],
     alt: "F\xFCllbild"
-  }))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
-    className: "flex justify-center items-center"
+  }))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
+    className: "flex justify-center items-center mt-4"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     className: "text-black h-auto flex justify-center items-center"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
@@ -389,7 +393,7 @@ const Navbar = () => {
     href: "/impressum",
     class: "block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent"
   }, "Impressum")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("li", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
-    href: "/feiertage",
+    href: "/404",
     class: "block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent"
   }, "Feiertage"))))));
 };
