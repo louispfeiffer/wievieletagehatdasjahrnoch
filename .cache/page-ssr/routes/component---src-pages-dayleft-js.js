@@ -15,7 +15,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _images_claender_webp__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../images/claender.webp */ "./src/images/claender.webp");
+/* harmony import */ var _images_calender_webp__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../images/calender.webp */ "./src/images/calender.webp");
 
 
 const DaysLeft = () => {
@@ -54,9 +54,9 @@ const DaysLeft = () => {
 
 /***/ }),
 
-/***/ "./src/images/claender.webp":
+/***/ "./src/images/calender.webp":
 /*!**********************************!*\
-  !*** ./src/images/claender.webp ***!
+  !*** ./src/images/calender.webp ***!
   \**********************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
@@ -64,7 +64,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/static/claender-def94228db1d269e28377a6d3d6e56f0.webp");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/static/calender-def94228db1d269e28377a6d3d6e56f0.webp");
 
 /***/ })
 

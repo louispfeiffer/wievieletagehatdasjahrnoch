@@ -15,7 +15,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _images_claender_webp__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../images/claender.webp */ "./src/images/claender.webp");
+/* harmony import */ var _images_calender_webp__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../images/calender.webp */ "./src/images/calender.webp");
 
 
 const DaysLeft = () => {
@@ -114,6 +114,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _footer__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./footer */ "./src/pages/footer.js");
 /* harmony import */ var _dayleft__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./dayleft */ "./src/pages/dayleft.js");
 /* harmony import */ var _images_clockonwrist_webp__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../images/clockonwrist.webp */ "./src/images/clockonwrist.webp");
+/* harmony import */ var _images_calender_webp__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../images/calender.webp */ "./src/images/calender.webp");
+/* harmony import */ var _images_black_men_busniess_webp__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../images/black-men-busniess.webp */ "./src/images/black-men-busniess.webp");
+
+
 
 
 
@@ -136,7 +140,7 @@ const IndexPage = () => {
     class: "flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0 m-4"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
     href: "/404",
-    class: "inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-green hover:shadow-xl focus:ring-4 focus:ring-blue-300"
+    class: "inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-green hover:shadow-xl focus:ring-4"
   }, "Zum Zeitrechner", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("svg", {
     class: "w-3.5 h-3.5 ms-2 rtl:rotate-180",
     "aria-hidden": "true",
@@ -193,7 +197,7 @@ const IndexPage = () => {
     href: "/Wie-man-die-verbleibenden-Tage-des-Jahres-ideal-nutzen-kann"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("img", {
     class: "rounded-t-lg",
-    src: _images_clockonwrist_webp__WEBPACK_IMPORTED_MODULE_4__["default"],
+    src: _images_calender_webp__WEBPACK_IMPORTED_MODULE_5__["default"],
     alt: "F\xFCllbild"
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     class: "p-5"
@@ -203,7 +207,7 @@ const IndexPage = () => {
     class: "mb-2 text-2xl font-bold tracking-tight"
   }, "Wie man die verbleibenden Tage des Jahres ideal nutzen kann")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", {
     class: "mb-3 font-normal"
-  }, "Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
+  }, "Entdecken Sie und lassen Sie sich inspirieren, wie Sie die verbleibenden Tage des Jahres nutzen k\xF6nnen."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
     href: "/Wie-man-die-verbleibenden-Tage-des-Jahres-ideal-nutzen-kann",
     class: "inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-green rounded-lg focus:ring-4 focus:outline-none"
   }, "weiter lesen", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("svg", {
@@ -221,21 +225,21 @@ const IndexPage = () => {
   }))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     class: "m-4 md:w-96 bg-white rounded-lg hover:shadow-xl"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
-    href: "#"
+    href: "/die-psychologische-Kraft-des-Countdowns-und-ihr-Einfluss-auf-unser-Verhalten"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("img", {
     class: "rounded-t-lg",
-    src: _images_clockonwrist_webp__WEBPACK_IMPORTED_MODULE_4__["default"],
+    src: _images_black_men_busniess_webp__WEBPACK_IMPORTED_MODULE_6__["default"],
     alt: "F\xFCllbild"
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     class: "p-5"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
-    href: "#"
+    href: "/die-psychologische-Kraft-des-Countdowns-und-ihr-Einfluss-auf-unser-Verhalten"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("h5", {
-    class: "mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"
-  }, "Die psychologische Auswirkung des Countdowns")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", {
-    class: "mb-3 font-normal text-gray-700"
-  }, "Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
-    href: "#",
+    class: "mb-2 text-2xl font-bold tracking-tight"
+  }, "Die psychologische Kraft des Countdowns und ihr Einfluss auf unser Verhalten")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", {
+    class: "mb-3 font-normal"
+  }, "Tauchen Sie ein in die faszinierende Welt der Countdowns und erfahren Sie, wie die verbleibende Zeit unsere Motivation steigert."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
+    href: "/die-psychologische-Kraft-des-Countdowns-und-ihr-Einfluss-auf-unser-Verhalten",
     class: "inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-green rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300"
   }, "weiter lesen", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("svg", {
     class: "rtl:rotate-180 w-3.5 h-3.5 ms-2",
@@ -401,9 +405,23 @@ const Navbar = () => {
 
 /***/ }),
 
-/***/ "./src/images/claender.webp":
+/***/ "./src/images/black-men-busniess.webp":
+/*!********************************************!*\
+  !*** ./src/images/black-men-busniess.webp ***!
+  \********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/static/black-men-busniess-2151253d912da911b5bbe66c0740622d.webp");
+
+/***/ }),
+
+/***/ "./src/images/calender.webp":
 /*!**********************************!*\
-  !*** ./src/images/claender.webp ***!
+  !*** ./src/images/calender.webp ***!
   \**********************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
@@ -411,7 +429,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/static/claender-def94228db1d269e28377a6d3d6e56f0.webp");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/static/calender-def94228db1d269e28377a6d3d6e56f0.webp");
 
 /***/ }),
 

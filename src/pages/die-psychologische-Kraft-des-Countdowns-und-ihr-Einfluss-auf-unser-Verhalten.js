@@ -2,7 +2,7 @@ import * as React from "react"
 import Navbar from "./navbar"
 import Footer from "./footer"
 
-import Img from "../images/calender.webp"
+import blog_cover_3 from "../images/black-men-busniess.webp"
 
 const BlogPage = () => {
     return (
@@ -14,7 +14,7 @@ const BlogPage = () => {
                     <h1 class="text-3xl font-bold text-center my-5">Die psychologische Kraft des Countdowns und ihr Einfluss auf unser Verhalten</h1>
                     <div class="bg-white p-6 rounded-lg shadow-md">
                         <div className="w-auto h-auto mb-4">
-                            <img class="rounded-lg" src={Img} alt="Füllbild" />
+                            <img class="rounded-lg" src={blog_cover_3} alt="Füllbild" />
                         </div>
                         <div class="mb-4">
                             <div class="mb-4">

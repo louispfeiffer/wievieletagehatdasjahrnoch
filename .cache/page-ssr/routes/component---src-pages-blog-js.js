@@ -19,6 +19,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _navbar__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./navbar */ "./src/pages/navbar.js");
 /* harmony import */ var _footer__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./footer */ "./src/pages/footer.js");
 /* harmony import */ var _images_clockonwrist_webp__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../images/clockonwrist.webp */ "./src/images/clockonwrist.webp");
+/* harmony import */ var _images_calender_webp__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../images/calender.webp */ "./src/images/calender.webp");
+/* harmony import */ var _images_black_men_busniess_webp__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../images/black-men-busniess.webp */ "./src/images/black-men-busniess.webp");
+
+
 
 
 
@@ -33,13 +37,13 @@ const BlogPage = () => {
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     className: "grid sm:grid-cols-1 md:grid-cols-3"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
-    class: "m-4 md:w-96 bg-white rounded-lg hover:shadow-xl"
+    class: "sm:w-auto md:w-96 m-4 bg-white rounded-lg hover:shadow-xl"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
     href: "/wie-viele-tage-hat-das-jahr-noch"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("img", {
     class: "rounded-t-lg",
     src: _images_clockonwrist_webp__WEBPACK_IMPORTED_MODULE_3__["default"],
-    alt: "F\xFCllbild"
+    alt: "blog_cover_1"
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     class: "p-5"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
@@ -66,23 +70,23 @@ const BlogPage = () => {
   }))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     class: "sm:w-auto md:w-96 m-4 bg-white rounded-lg hover:shadow-xl"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
-    href: "#"
+    href: "/Wie-man-die-verbleibenden-Tage-des-Jahres-ideal-nutzen-kann"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("img", {
     class: "rounded-t-lg",
-    src: _images_clockonwrist_webp__WEBPACK_IMPORTED_MODULE_3__["default"],
-    alt: "F\xFCllbild"
+    src: _images_calender_webp__WEBPACK_IMPORTED_MODULE_4__["default"],
+    alt: "blog_cover_2"
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     class: "p-5"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
-    href: "#"
+    href: "/Wie-man-die-verbleibenden-Tage-des-Jahres-ideal-nutzen-kann"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("h5", {
-    class: "mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"
-  }, "Noteworthy technology acquisitions 2021")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", {
-    class: "mb-3 font-normal text-gray-700 dark:text-gray-400"
-  }, "Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
-    href: "#",
-    class: "inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-green rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
-  }, "Read more", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("svg", {
+    class: "mb-2 text-2xl font-bold tracking-tight"
+  }, "Wie man die verbleibenden Tage des Jahres ideal nutzen kann")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", {
+    class: "mb-3 font-normal"
+  }, "Entdecken Sie und lassen Sie sich inspirieren, wie Sie die verbleibenden Tage des Jahres nutzen k\xF6nnen."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
+    href: "/Wie-man-die-verbleibenden-Tage-des-Jahres-ideal-nutzen-kann",
+    class: "inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-green rounded-lg focus:ring-4 focus:outline-none"
+  }, "weiter lesen", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("svg", {
     class: "rtl:rotate-180 w-3.5 h-3.5 ms-2",
     "aria-hidden": "true",
     xmlns: "http://www.w3.org/2000/svg",
@@ -97,21 +101,21 @@ const BlogPage = () => {
   }))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     class: "sm:w-auto md:w-96 m-4 bg-white rounded-lg hover:shadow-xl"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
-    href: "#"
+    href: "/die-psychologische-Kraft-des-Countdowns-und-ihr-Einfluss-auf-unser-Verhalten"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("img", {
     class: "rounded-t-lg",
-    src: _images_clockonwrist_webp__WEBPACK_IMPORTED_MODULE_3__["default"],
-    alt: "F\xFCllbild"
+    src: _images_black_men_busniess_webp__WEBPACK_IMPORTED_MODULE_5__["default"],
+    alt: "blog_cover_3"
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     class: "p-5"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
-    href: "#"
+    href: "/die-psychologische-Kraft-des-Countdowns-und-ihr-Einfluss-auf-unser-Verhalten"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("h5", {
     class: "mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"
-  }, "Noteworthy technology acquisitions 2021")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", {
+  }, "Die psychologische Kraft des Countdowns und ihr Einfluss auf unser Verhalten")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", {
     class: "mb-3 font-normal text-gray-700 dark:text-gray-400"
-  }, "Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
-    href: "#",
+  }, "Tauchen Sie ein in die faszinierende Welt der Countdowns und erfahren Sie, wie die verbleibende Zeit unsere Motivation steigert."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
+    href: "/die-psychologische-Kraft-des-Countdowns-und-ihr-Einfluss-auf-unser-Verhalten",
     class: "inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-green rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
   }, "Read more", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("svg", {
     class: "rtl:rotate-180 w-3.5 h-3.5 ms-2",
@@ -335,6 +339,34 @@ const Navbar = () => {
   }, "Feiertage"))))));
 };
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Navbar);
+
+/***/ }),
+
+/***/ "./src/images/black-men-busniess.webp":
+/*!********************************************!*\
+  !*** ./src/images/black-men-busniess.webp ***!
+  \********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/static/black-men-busniess-2151253d912da911b5bbe66c0740622d.webp");
+
+/***/ }),
+
+/***/ "./src/images/calender.webp":
+/*!**********************************!*\
+  !*** ./src/images/calender.webp ***!
+  \**********************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/static/calender-def94228db1d269e28377a6d3d6e56f0.webp");
 
 /***/ }),
 
