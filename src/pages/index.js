@@ -3,7 +3,8 @@ import Navbar from "./navbar"
 import Footer from "./footer"
 import DaysLeft from "./dayleft"
 
-import Img from "../images/clockonwrist.webp"
+import blog_cover_1 from "../images/clockonwrist.webp"
+import blog_cover_2 from "../images/calender.webp"
 
 const IndexPage = () => {
   return (
@@ -39,7 +40,7 @@ const IndexPage = () => {
 
               <div class="m-4 md:w-96 bg-white rounded-lg hover:shadow-xl">
                 <a href="/wie-viele-tage-hat-das-jahr-noch">
-                  <img class="rounded-t-lg" src={Img} alt="Füllbild" />
+                  <img class="rounded-t-lg" src={blog_cover_1} alt="Füllbild" />
                 </a>
                 <div class="p-5">
                   <a href="/wie-viele-tage-hat-das-jahr-noch">
@@ -57,13 +58,13 @@ const IndexPage = () => {
 
               <div class="m-4 md:w-96 bg-white rounded-lg hover:shadow-xl">
                 <a href="/Wie-man-die-verbleibenden-Tage-des-Jahres-ideal-nutzen-kann">
-                  <img class="rounded-t-lg" src={Img} alt="Füllbild" />
+                  <img class="rounded-t-lg" src={blog_cover_2} alt="Füllbild" />
                 </a>
                 <div class="p-5">
                   <a href="/Wie-man-die-verbleibenden-Tage-des-Jahres-ideal-nutzen-kann">
                     <h5 class="mb-2 text-2xl font-bold tracking-tight">Wie man die verbleibenden Tage des Jahres ideal nutzen kann</h5>
                   </a>
-                  <p class="mb-3 font-normal">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+                  <p class="mb-3 font-normal">Entdecken Sie und lassen Sie sich inspirieren, wie Sie die verbleibenden Tage des Jahres nutzen können.</p>
                   <a href="/Wie-man-die-verbleibenden-Tage-des-Jahres-ideal-nutzen-kann" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-green rounded-lg focus:ring-4 focus:outline-none">
                     weiter lesen
                     <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
@@ -76,7 +77,7 @@ const IndexPage = () => {
 
               <div class="m-4 md:w-96 bg-white rounded-lg hover:shadow-xl">
                 <a href="#">
-                  <img class="rounded-t-lg" src={Img} alt="Füllbild" />
+                  <img class="rounded-t-lg" src={blog_cover_1} alt="Füllbild" />
                 </a>
                 <div class="p-5">
                   <a href="#">
@@ -94,7 +95,7 @@ const IndexPage = () => {
 
               <div class="m-4 md:w-96 bg-white rounded-lg hover:shadow-xl">
                 <a href="#">
-                  <img class="rounded-t-lg" src={Img} alt="Füllbild" />
+                  <img class="rounded-t-lg" src={blog_cover_1} alt="Füllbild" />
                 </a>
                 <div class="p-5">
                   <a href="#">
@@ -158,7 +159,7 @@ const IndexPage = () => {
                 </p>
               </div>
               <div className="sm:mx-4 md:mx-0 w-auto h-auto">
-                <img class="rounded-lg" src={Img} alt="Füllbild" />
+                <img class="rounded-lg" src={blog_cover_1} alt="Füllbild" />
               </div>
             </div>
           </div>

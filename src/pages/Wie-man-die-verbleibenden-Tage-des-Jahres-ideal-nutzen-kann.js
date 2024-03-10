@@ -2,7 +2,7 @@ import * as React from "react"
 import Navbar from "./navbar"
 import Footer from "./footer"
 
-import Img from "../images/clockonwrist.webp"
+import Img from "../images/calender.webp"
 
 const BlogPage = () => {
     return (

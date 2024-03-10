@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import img1 from "../images/claender.webp"
+import img1 from "../images/calender.webp"
 
 const DaysLeft = () => {
     const [daysLeft, setDaysLeft] = useState(0);
